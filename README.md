@@ -1,5 +1,5 @@
-# 💫 About Me:
-# Hi cookies Я KIMOCO и я воплощаю свою шизу в игры ✨<br>Два года в геймдеве.
+# 💫 About Me:<br/>
+# Hi cookies Я KIMOCO и я воплощаю свою шизу в игры ✨<br>Два года в геймдеве.<br/>
 
 
 # 💻 Tech Stack:
