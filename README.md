@@ -18,10 +18,6 @@
 
 ---
 
-# 📊 GitHub Stats:
-![Stats](./profile/stats.svg)
-![Streak](./profile/streak.svg)
-
 ---
 
 # 📫 How to Reach Me:
